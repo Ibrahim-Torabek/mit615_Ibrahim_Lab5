@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 d42c8ad083168670bec8b60eb324eea6e2545afb Ibrahim <ibrahim@MIT615-Ibrahim.localdomain> 1581615339 -0600	commit (initial): Docker is finished, still has error when seed.
+d42c8ad083168670bec8b60eb324eea6e2545afb 3db73998618064a692aa699f935f93d4a36b7788 Ibrahim <ibrahim@MIT615-Ibrahim.localdomain> 1581615446 -0600	commit: Docker is finished, still has error when seed.
+3db73998618064a692aa699f935f93d4a36b7788 7beac0d5795209ab8cde0892d73dfc8cbcea4c66 Ibrahim <ibrahim@MIT615-Ibrahim.localdomain> 1581615793 -0600	commit: Gemfile updated
+7beac0d5795209ab8cde0892d73dfc8cbcea4c66 e0826906085e74a88506e54a318a1392cac79cc6 Ibrahim <ibrahim@MIT615-Ibrahim.localdomain> 1581616241 -0600	commit: Docker is normal, error when seed
+e0826906085e74a88506e54a318a1392cac79cc6 2e7602dccda8dc505ebe55126f7050ea3d4e5aa2 Ibrahim <ibrahim@MIT615-Ibrahim.localdomain> 1581744248 -0600	commit: finished, prepare to heroku
